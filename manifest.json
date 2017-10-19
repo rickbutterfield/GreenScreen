@@ -30,6 +30,6 @@
   // ],
   "start_url": "/index.html",
   "display": "fullscreen",
-  "background_color": "#00600d",
-  "theme_color": "#00600d"
+  "background_color": "#00b140",
+  "theme_color": "#00b140"
 }
