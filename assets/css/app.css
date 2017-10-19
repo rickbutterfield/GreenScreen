@@ -6,7 +6,7 @@
 
 html,
 body {
-  --chroma-green: #00ff00;
+  --chroma-green: #00600d;
   --chroma-blue: #0000ff;
 
   display: flex;
@@ -18,7 +18,7 @@ body {
   background-color: var(--chroma-green);
 
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
 }
 
 .keyboard {
