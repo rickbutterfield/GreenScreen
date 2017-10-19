@@ -3,7 +3,6 @@ let cacheName = 'greenScreenPWA-1';
 let filesToCache = [
   '/',
   '/index.html',
-  // '/assets/img/keyboard.png',
   '/assets/css/app.css',
   '/assets/js/app.js'
 ];
