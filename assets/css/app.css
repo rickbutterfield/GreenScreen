@@ -1,0 +1,27 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  --chroma-green: #00ff00;
+  --chroma-blue: #0000ff;
+
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--chroma-green);
+
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.keyboard {
+  font-size: 0;
+  line-height: 0;
+}
